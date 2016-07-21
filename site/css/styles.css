@@ -1,0 +1,63 @@
+#header-nav{
+	background-color: gray;
+	border-radius: 0;
+	border: 0;
+	padding-top: 5px;
+	padding-bottom: 0;
+	border: solid;
+	border-width: 2px;
+}
+
+.navbar-brand{
+	padding-top: 5px;
+	margin: 0;
+	border-color: black;
+	border-left-width: 55px;
+}
+
+.navbar-brand h1 {
+	color: black;
+	font-weight: bold;
+	margin: 0;
+}
+
+#nav-list {
+	margin-top: 0;
+	margin-bottom: 0;
+	background-color: white;
+}
+
+#nav-list a {
+	text-align:center;
+	border: solid;
+	border-color: black;
+	border-width: 1px;
+	font-size: 2em;
+	color: black;
+}
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+	border: 2px solid black;
+}
+
+.jumbotron {
+	background-color: white;
+	margin: 0;
+	padding: 0;
+}
+
+ .jumbotron .page-header {
+	text-align: center;
+	height: 50px;
+	background-color: white;
+	border-color: white;
+
+
+}
+
+.main-part-long{
+	background-color: #CCCCCC;
+	margin-right: 5px;
+	margin-left: 5px;
+	padding: 5px;
+}
